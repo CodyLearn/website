@@ -5,7 +5,7 @@ copyright = "Copyright © 2020, CodyLearn; all rights reserved."
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 languageCode = "en"
-paginate = 3
+paginate = 4
 theme = "casper3"
 title = "CodyLearn 🎓"
 [[menu.main]]
