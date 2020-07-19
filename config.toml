@@ -1,6 +1,6 @@
 DefaultContentLanguage = "en"
 author = "Vicente"
-baseURL = "https://gohugo.io/"
+baseURL = "https://adoring-bassi-084776.netlify.app"
 copyright = "Copyright © 2020, CodyLearn; all rights reserved."
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
@@ -29,10 +29,10 @@ name = "Author Homepage"
 url = "https://jonathanjanssens.com"
 weight = 40
 [params]
-description = "Just a demo site for the Casper3 theme ported to Hugo"
+description = "Aprende a programar"
 facebook = "https://facebook.com"
-github = "https://github.com/jonathanjanssens"
-logo = "/images/ghost-transparent.png"
+github = "https://github.com/CodyLearn"
+logo = "/images/logocodylearn.png"
 mainSections = ["post"]
 twitter = "https://twitter.com"
 [privacy.instagram]
