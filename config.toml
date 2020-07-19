@@ -1,6 +1,6 @@
 DefaultContentLanguage = "en"
 author = "Vicente"
-baseURL = "https://adoring-bassi-084776.netlify.app"
+baseURL = ""
 copyright = "Copyright © 2020, CodyLearn; all rights reserved."
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
