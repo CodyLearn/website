@@ -9,20 +9,25 @@ paginate = 4
 theme = "casper3"
 title = "CodyLearn 🎓"
 [[menu.main]]
+identifier = "author"
+name = "Author Homepage"
+url = "https://jonathanjanssens.com"
+weight = 4
+[[menu.main]]
+identifier = "github-repo-theme"
+name = "Get Theme on Github"
+url = "https://github.com/jonathanjanssens/hugo-casper3"
+weight = 3
+[[menu.main]]
+identifier = "image-credit"
+name = "Image Credit"
+url = "/image-credit/"
+weight = 2
+[[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
-weight = 10
-[[menu.main]]
-identifier = "categories"
-name = "Categorías"
-url = "/categories/"
-weight = 20
-[[menu.main]]
-identifier = "discord"
-name = "Discord"
-url = "https://discord.gg/vrMFDUs"
-weight = 30
+weight = 1
 [params]
 description = "Aprende a programar"
 facebook = "https://facebook.com"
