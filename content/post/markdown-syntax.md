@@ -6,7 +6,7 @@ date = 2020-06-09T23:00:00Z
 description = "Artículo de ejemplo"
 feature_image = "/images/safar-safarov-msn8tfhj0is-unsplash.jpg"
 series = ["Themes Guide"]
-tags = ["markdown", "css", "html", "themes"]
+tags = ["ejemplo"]
 title = "Publicación de ejemplo"
 
 +++
